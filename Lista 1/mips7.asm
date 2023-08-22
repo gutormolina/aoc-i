@@ -20,5 +20,5 @@
 	mult $t6, $t3		# 3z
 	mflo $t3			# $t3 = 3z
 	sub $t7, $t1, $t2	# $t7 = 4x - 2y
-	add $t7, $t7, $t3	# $t7 = $t7 + 3z
+	add $t7, $t7, $t3	# $t7 = ... + 3z
 	

@@ -5,6 +5,7 @@
 #registrador $t1. 
 #Armazene o quociente da divisão em $t2 e o resto em $t3.
 #Responda o que acontece quando x = -4.
+#R:	Divisão por zero.
 
 .text
 	addi $t1, $zero, -4	# $t1 = x
